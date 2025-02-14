@@ -4,3 +4,6 @@
 [submodule "c/vd/server"]
 	path = c/vd/server
 	url = https://github.com/MBVD/server
+[submodule "c/vd/uni_c"]
+	path = c/vd/uni_c
+	url = https://github.com/MBVD/uni_c
