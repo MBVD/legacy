@@ -1,0 +1,3 @@
+[submodule "c/vd/bash-on-c"]
+	path = c/vd/bash-on-c
+	url = https://github.com/MBVD/bash-on-c
