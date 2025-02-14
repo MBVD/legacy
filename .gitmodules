@@ -7,3 +7,6 @@
 [submodule "c/vd/uni_c"]
 	path = c/vd/uni_c
 	url = https://github.com/MBVD/uni_c
+[submodule "c/vd/web-server"]
+	path = c/vd/web-server
+	url = https://github.com/MBVD/web-server.git
