@@ -3,7 +3,7 @@
 	url = https://github.com/MBVD/bash-on-c
 [submodule "c/vd/server"]
 	path = c/vd/server
-	url = https://github.com/MBVD/server
+	url = https://github.com/MBVD/web-server.git
 [submodule "c/vd/uni_c"]
 	path = c/vd/uni_c
 	url = https://github.com/MBVD/uni_c
